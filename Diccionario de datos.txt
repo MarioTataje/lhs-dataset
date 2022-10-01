@@ -1,0 +1,25 @@
+Age : double
+Blood Pressure: double
+Specific Gravity: double
+Albumin: double
+Sugar: double
+Red Blood Cells: [normal: 1, abnormal: 0]
+Pus Cell: string [normal: 1, abnormal: 0]
+Pus Cell clumps: string [present: 1, notpresent: 0]
+Bacteria: string [present: 1, notpresent: 0]
+Blood Glucose Random: double
+Blood Urea: double
+Serum Creatinine: double
+Sodium: double
+Potassium: double
+Hemoglobin: double
+Packed Cell Volume: double
+White Blood Cell Count: double
+Red Blood Cell Count: double
+Hypertension: string [yes: 1, no: 0]
+Diabetes Mellitus: string [yes: 1, no: 0]
+Coronary Artery Disease: string [yes: 1, no: 0]
+Appetite: string [good: 1, poor: 0]
+Pedal Edema: string [yes: 1, no: 0]
+Anemia: string [yes: 1, no: 0]
+Class: string [ckd: 1, notckd: 0]
